@@ -1,0 +1,12 @@
+{
+  "name": "Aplicativo Exemplo",
+  "description": "Aplicativo Pessoal para Firefox OS",
+  "launch_path": "index.html",
+  "icons": { "128": "/img/firefox-128.png" },
+  "developer": {
+    "name": "RaianAndrades",
+    "url": "http://mozilla.org"
+  },
+  "default_locale": "en"
+}
+
